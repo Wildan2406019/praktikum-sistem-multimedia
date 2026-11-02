@@ -1,0 +1,9 @@
+TABEL HASIL PENGUJIAN PSNR DAN SSIM
+
+Format   Kualitas   MSE          PSNR Manual    PSNR Skimage   SSIM       Ukuran KB   
+JPEG     10         381.6675     22.3140        22.3140        0.7893     46.33       
+JPEG     50         118.8090     27.3823        27.3823        0.9232     130.07      
+JPEG     90         18.4688      35.4664        35.4664        0.9843     293.62      
+WebP     10         230.8666     24.4972        24.4972        0.8691     54.90       
+WebP     50         63.4042      30.1096        30.1096        0.9485     124.94      
+WebP     90         16.2063      36.0340        36.0340        0.9824     262.13      
